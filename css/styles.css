@@ -160,5 +160,9 @@ body {
 }
 
 .footer .studio {
+    color: #f4f4fd;
+}
+
+.footer .paragraf {
     color: var(--paragraf-text-color)
 }
