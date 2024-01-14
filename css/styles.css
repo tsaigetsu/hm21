@@ -1,3 +1,7 @@
+:root {
+    --paragraf-text-color: #F4F4FD;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
@@ -156,5 +160,5 @@ body {
 }
 
 .footer .studio {
-    color: #f4f4fd;
+    color: var(--paragraf-text-color)
 }
